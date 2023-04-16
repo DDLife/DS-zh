@@ -1,0 +1,2 @@
+# scripterrorscreen.lua
+

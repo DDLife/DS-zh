@@ -1,0 +1,2 @@
+# slotdetailsscreen.lua
+
